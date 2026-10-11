@@ -1,0 +1,4 @@
+/target
+
+# 程序运行时生成的设备日志（每次 cargo run 都会重写）
+sched-log-*.txt
